@@ -1,3 +1,4 @@
 build
 redis_client
 cmake-build-debug
+.idea
